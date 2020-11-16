@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 //const char* ssid = "E-Ju";
 //const char* password = "12345678";
-//const char* ssid = "Kwanz";
+//const char* ssid = "jack";
 //const char* password = "00EB2PASS";
 const char* ssid = "60044204"; 
 const char* password = "1729800079868"; 
